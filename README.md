@@ -1,0 +1,3 @@
+Below is a list of files we used to create our final models:
+
+DivvyBikeDataLinearPolynomialRegression_finalproj.ipynb: This file contains the code for the regression models. It contains a Chi-Squared test used to select the features used in the regression models. In this file, a linear model and a polynomial model are created using the scaled features, and they are optimized using Lasso and Ridge regression.
